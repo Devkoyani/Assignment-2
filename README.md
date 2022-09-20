@@ -1,2 +1,2 @@
-# Assignment-2
+# Practical-2
 This my second Assignment. 
